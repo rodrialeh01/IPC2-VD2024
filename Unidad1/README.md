@@ -23,4 +23,4 @@ Es el comienzo de un nuevo curso, en el cual se pretende que los estudiantes apr
 Lo puedes encontrar en:  [Clase1/main.py](./Clase1/main.py)
 
 ### 🎥 Grabación de la Clase
-**Clase 1**: []()
+**Clase 1**: [https://drive.google.com/file/d/15NBf2zhVvNGpDM0ut-shRqUAkXltovOq/view?usp=sharing](https://drive.google.com/file/d/15NBf2zhVvNGpDM0ut-shRqUAkXltovOq/view?usp=sharing)
