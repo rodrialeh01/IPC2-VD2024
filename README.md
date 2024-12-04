@@ -19,9 +19,8 @@ Si te gusta este repositorio y su contenido, te invito a darle una ⭐️ y si q
 
 ### Unidades del Laboratorio
 
-![construccion](https://i.gifer.com/ZSj2.gif)
-
-Unidades de Laboratorio en construcción
+- [`🐍 Unidad 1:`](./Unidad1/) Introducción a Python
+  - [📚 Clase 1](./Unidad1/Clase1/)
 
 ## 👤Contacto
 
