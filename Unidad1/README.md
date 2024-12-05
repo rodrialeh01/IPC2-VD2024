@@ -48,4 +48,4 @@ En esta clase se abordaron los temas de la programación orientada a objetos, la
 Lo puedes encontrar en:  [Clase02](./Clase2)
 
 ### 🎥 Grabación de la Clase
-**Clase 2**: []()
+**Clase 2**: [https://drive.google.com/file/d/1MZaBCV9v8zVuiHOYxW1qCN5mA6nPpXti/view?usp=sharing](https://drive.google.com/file/d/1MZaBCV9v8zVuiHOYxW1qCN5mA6nPpXti/view?usp=sharing)
