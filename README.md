@@ -21,6 +21,7 @@ Si te gusta este repositorio y su contenido, te invito a darle una ⭐️ y si q
 
 - [`🐍 Unidad 1:`](./Unidad1/) Introducción a Python
   - [📚 Clase 1](./Unidad1/Clase1/)
+  - [📚 Clase 2](./Unidad1/Clase2/)
 
 ## 👤Contacto
 

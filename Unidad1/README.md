@@ -24,3 +24,28 @@ Lo puedes encontrar en:  [Clase1/main.py](./Clase1/main.py)
 
 ### 🎥 Grabación de la Clase
 **Clase 1**: [https://drive.google.com/file/d/15NBf2zhVvNGpDM0ut-shRqUAkXltovOq/view?usp=sharing](https://drive.google.com/file/d/15NBf2zhVvNGpDM0ut-shRqUAkXltovOq/view?usp=sharing)
+
+## 📚 Clase 2: Programación Orientada a Objetos
+
+_Fecha: 04-12-2024_
+
+En esta clase se abordaron los temas de la programación orientada a objetos, la cual es una de las bases fundamentales de la programación.
+
+### 📖 Contenido:
+- ¿Qué es la programación orientada a objetos?
+- Clases y objetos
+- Atributos y métodos
+- Pilares de la programación orientada a objetos
+    - Encapsulamiento
+    - Herencia
+    - Polimorfismo
+    - Abstracción
+
+
+
+### 💻 Código de la Clase
+
+Lo puedes encontrar en:  [Clase02](./Clase2)
+
+### 🎥 Grabación de la Clase
+**Clase 2**: []()
