@@ -1,3 +1,6 @@
+from clases.Camion import Camion
+from clases.Carro import Carro
+from clases.Moto import Moto
 from clases.Vehiculo import Vehiculo
 
 
@@ -31,3 +34,15 @@ class Concesionario:
         for vehiculo in self.vehiculos:
             if vehiculo.modelo == modelo:
                 vehiculo.disponibilizar()
+    
+    def buscarPorTipo(self, tipo):
+        for vehiculo in self.vehiculos:
+            if tipo == "Carro":
+                if isinstance(vehiculo, Carro):
+                    vehiculo.informacionDetallada()
+            elif tipo == "Moto":
+                if isinstance(vehiculo, Moto):
+                    vehiculo.informacionDetallada()
+            elif tipo == "Camion":
+                if isinstance(vehiculo, Camion):
+                    vehiculo.informacionDetallada()

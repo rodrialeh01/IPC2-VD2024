@@ -118,9 +118,15 @@ def disponibilizarVehiculo():
     modelo = input("Ingrese el modelo del vehiculo: ")
     sistema.disponibilizarVehiculo(modelo)
 
+def mostrarVehiculosPorTipo():
+    print("|             VEHICULOS POR TIPO         |")
+    print("|----------------------------------------|")
+    tipo = input("Ingrese el tipo de vehiculo: ")
+    sistema.buscarPorTipo(tipo)
+
 def Menu():
     opcion = 0
-    while opcion != 7:
+    while opcion != 8:
         print("|             MENU PRINCIPAL             |")
         print("|----------------------------------------|")
         print("| 1. Agregar Vehiculo                    |")
@@ -129,7 +135,8 @@ def Menu():
         print("| 4. Eliminar Vehiculo                   |")
         print("| 5. Mantener Vehiculo                   |")
         print("| 6. Disponibilizar Vehiculo             |")
-        print("| 7. Salir                               |")
+        print("| 7. Mostrar Vehículos por tipo          |")
+        print("| 8. Salir                               |")
         print("|----------------------------------------|")
         print("Ingresa tu opcion: ")
         opcion = int(input("> "))
@@ -147,6 +154,8 @@ def Menu():
             case 6:
                 disponibilizarVehiculo()
             case 7:
+                mostrarVehiculosPorTipo()
+            case 8:
                 print("Saliendo del sistema...")
                 time.sleep(1)
                 print("Adios!")
