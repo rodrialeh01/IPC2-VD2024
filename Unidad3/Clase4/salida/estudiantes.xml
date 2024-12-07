@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<estudiantes>
+	<estudiante carnet="202400001">
+		<nombre>Estudiante 1</nombre>
+		<edad>20</edad>
+	</estudiante>
+</estudiantes>
