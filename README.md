@@ -22,7 +22,12 @@ Si te gusta este repositorio y su contenido, te invito a darle una ⭐️ y si q
 - [`🐍 Unidad 1:`](./Unidad1/) Introducción a Python
   - [📚 Clase 1](./Unidad1/Clase1/)
   - [📚 Clase 2](./Unidad1/Clase2/)
-
+- [`😼 Unidad 2:`](./Unidad2) Manejo de Versiones
+  - [📚 Clase 3](./Unidad2)
+- [`📋 Unidad 3:`](./Unidad3) Procesamiento de datos XML
+  - [📚 Clase 4](./Unidad3/Clase4/)
+- [`⛓️ Unidad 4:`](./Unidad4) Estructuras de Datos
+  - [📚 Clase 5](./Unidad4/Clase5/)
 ## 👤Contacto
 
 Correo: [rodrialehdl@gmail.com](rodrialehdl@gmail.com)
