@@ -76,6 +76,6 @@ Para cargar el pizarrron en [Excalidraw](https://excalidraw.com/), sigue los sig
 
 ### 🎥 Grabación de la Clase
 
-**Clase 6**: []()
+**Clase 6**: [https://drive.google.com/file/d/193OBmciCIFJD4AZ0WzbFoFTcIQXAfnoW/view?usp=sharing](https://drive.google.com/file/d/193OBmciCIFJD4AZ0WzbFoFTcIQXAfnoW/view?usp=sharing)
 
 ---
