@@ -9,9 +9,9 @@ class Usuario:
 
     #str(valor)
     def __str__(self):
-        return f'ID: {self.id}\n' \
-            f'Password: {self.password}\n' \
-            f'Nombre: {self.nombre}\n' \
-            f'Edad: {self.edad}\n' \
-            f'Email: {self.email}\n' \
+        return f'ID: {self.id}\\n' \
+            f'Password: {self.password}\\n' \
+            f'Nombre: {self.nombre}\\n' \
+            f'Edad: {self.edad}\\n' \
+            f'Email: {self.email}\\n' \
             f'Telefono: {self.telefono}'

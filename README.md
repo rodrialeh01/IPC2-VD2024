@@ -28,6 +28,7 @@ Si te gusta este repositorio y su contenido, te invito a darle una ⭐️ y si q
   - [📚 Clase 4](./Unidad3/Clase4/)
 - [`⛓️ Unidad 4:`](./Unidad4) Estructuras de Datos
   - [📚 Clase 5](./Unidad4/Clase5/)
+  - [📚 Clase 6](./Unidad4/Clase6/)
 ## 👤Contacto
 
 Correo: [rodrialehdl@gmail.com](rodrialehdl@gmail.com)

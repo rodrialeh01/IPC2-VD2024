@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musica>
+    <cancion>
+        <titulo>Bohemian Rhapsody</titulo>
+        <artista>Queen</artista>
+        <album>A Night at the Opera</album>
+        <anio>1975</anio>
+        <genero>Rock</genero>
+        <duracion>5:55</duracion>
+    </cancion>
+    <cancion>
+        <titulo>Imagine</titulo>
+        <artista>John Lennon</artista>
+        <album>Imagine</album>
+        <anio>1971</anio>
+        <genero>Pop</genero>
+        <duracion>3:03</duracion>
+    </cancion>
+    <cancion>
+        <titulo>Hotel California</titulo>
+        <artista>Eagles</artista>
+        <album>Hotel California</album>
+        <anio>1976</anio>
+        <genero>Rock</genero>
+        <duracion>6:30</duracion>
+    </cancion>
+    <cancion>
+        <titulo>Shape of You</titulo>
+        <artista>Ed Sheeran</artista>
+        <album>÷ (Divide)</album>
+        <anio>2017</anio>
+        <genero>Pop</genero>
+        <duracion>3:53</duracion>
+    </cancion>
+    <cancion>
+        <titulo>Blinding Lights</titulo>
+        <artista>The Weeknd</artista>
+        <album>After Hours</album>
+        <anio>2020</anio>
+        <genero>Synth-Pop</genero>
+        <duracion>3:22</duracion>
+    </cancion>
+</musica>

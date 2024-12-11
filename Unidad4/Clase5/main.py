@@ -26,9 +26,9 @@ def menu():
         if opcion == '1':
             carga_masiva()
         elif opcion == '2':
-            lista_usuarios.imprimirLista()
+            lista_usuarios.graficar()
         elif opcion == '3':
-            lista_libros.imprimirListaHaciaAtras()
+            lista_libros.graficar()
         elif opcion == '4':
             id_libro = input('Ingrese el ID del libro que desee obtener: ')
             libro = lista_libros.buscar(id_libro)

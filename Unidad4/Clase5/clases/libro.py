@@ -7,8 +7,8 @@ class Libro:
         self.imagen = imagen
     
     def __str__(self):
-        return f'ID: {self.id}\n' \
-            f'Título: {self.titulo}\n' \
-            f'Autor: {self.autor}\n' \
-            f'Precio: {self.precio}\n' \
+        return f'ID: {self.id}\\n' \
+            f'Título: {self.titulo}\\n' \
+            f'Autor: {self.autor}\\n' \
+            f'Precio: {self.precio}\\n' \
             f'Imagen: {self.imagen}'

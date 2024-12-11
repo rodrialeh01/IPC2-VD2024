@@ -1,0 +1,14 @@
+digraph G {
+    rankdir=LR;
+    node[shape=record, height=.1]
+    nodo0[label="{<f1>|ID: 0\nTitulo: Bohemian Rhapsody\nArtista: Queen\nAlbum: A Night at the Opera\nAño: 1975\nGenero: Rock\nDuracion: 5:55|<f2>}"];
+nodo1[label="{<f1>|ID: 1\nTitulo: Imagine\nArtista: John Lennon\nAlbum: Imagine\nAño: 1971\nGenero: Pop\nDuracion: 3:03|<f2>}"];
+nodo2[label="{<f1>|ID: 2\nTitulo: Hotel California\nArtista: Eagles\nAlbum: Hotel California\nAño: 1976\nGenero: Rock\nDuracion: 6:30|<f2>}"];
+nodo3[label="{<f1>|ID: 3\nTitulo: Shape of You\nArtista: Ed Sheeran\nAlbum: ÷ (Divide)\nAño: 2017\nGenero: Pop\nDuracion: 3:53|<f2>}"];
+nodo4[label="{<f1>|ID: 4\nTitulo: Blinding Lights\nArtista: The Weeknd\nAlbum: After Hours\nAño: 2020\nGenero: Synth-Pop\nDuracion: 3:22|<f2>}"];
+nodo0:f2 -> nodo1:f1[dir=both];
+nodo1:f2 -> nodo2:f1[dir=both];
+nodo2:f2 -> nodo3:f1[dir=both];
+nodo3:f2 -> nodo4:f1[dir=both];
+nodo0:f1 -> nodo4:f2 [dir=both constraint=false];
+}
