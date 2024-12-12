@@ -1,0 +1,5 @@
+digraph G {
+    rankdir=LR;
+    node[shape=Mrecord];
+    Pila[xlabel="Pila" label="ID: 2\nXML: C:/Users/rodri/Documents/REPOSITORIOS/pruebasipc2/ejemplo_colaPilas/Entradas/Imagenes/capibara.xml\n|ID: 3\nXML: C:/Users/rodri/Documents/REPOSITORIOS/pruebasipc2/ejemplo_colaPilas/Entradas/Imagenes/rana.xml\n"];
+}

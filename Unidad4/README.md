@@ -79,3 +79,33 @@ Para cargar el pizarrron en [Excalidraw](https://excalidraw.com/), sigue los sig
 **Clase 6**: [https://drive.google.com/file/d/193OBmciCIFJD4AZ0WzbFoFTcIQXAfnoW/view?usp=sharing](https://drive.google.com/file/d/193OBmciCIFJD4AZ0WzbFoFTcIQXAfnoW/view?usp=sharing)
 
 ---
+
+## 📚 Clase 7: Continuación a Estructuras de Datos: Pilas y Colas
+
+_Fecha: 11-12-2024_
+
+En esta clase se abordaron los temas de pilas y colas.
+
+### 📖 Contenido:
+
+- Estructuras de datos:
+    - Pilas
+        - Push
+        - Pop
+        - Peek
+        - Graficar
+    - Colas
+        - Enqueue
+        - Dequeue
+        - Obtener el frente
+        - Graficar
+
+### 💻 Ejemplo de la Clase
+
+Lo puedes encontrar en:  [Clase7/main.py](./Clase7/main.py)
+
+### 🎥 Grabación de la Clase
+
+**Clase 7**: []()
+
+---

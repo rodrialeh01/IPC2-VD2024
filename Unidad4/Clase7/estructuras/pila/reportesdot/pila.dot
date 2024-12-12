@@ -1,0 +1,5 @@
+digraph G {
+    rankdir=LR;
+    node[shape=Mrecord];
+    Pila[xlabel="Pila" label="5|4|3|2|1"];
+}

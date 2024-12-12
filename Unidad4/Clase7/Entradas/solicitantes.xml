@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<solicitantes>
+    <solicitante id="IPC-001" pwd="3267">
+        <NombreCompleto>Carlos Ruiz</NombreCompleto>
+        <CorreoElectronico>carlos.ruiz@example.com</CorreoElectronico>
+        <NumeroTelefono>67984298</NumeroTelefono>
+        <Direccion>Ciudad de Guatemala, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-002" pwd="4312">
+        <NombreCompleto>Carlos Ruiz</NombreCompleto>
+        <CorreoElectronico>carlos.ruiz@mail.com</CorreoElectronico>
+        <NumeroTelefono>15336206</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-003" pwd="1893">
+        <NombreCompleto>María López</NombreCompleto>
+        <CorreoElectronico>maría.lópez@mail.com</CorreoElectronico>
+        <NumeroTelefono>23637281</NumeroTelefono>
+        <Direccion>Quetzaltenango, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-004" pwd="9153">
+        <NombreCompleto>Camila Sánchez</NombreCompleto>
+        <CorreoElectronico>camila.sánchez@example.com</CorreoElectronico>
+        <NumeroTelefono>23396941</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-005" pwd="8929">
+        <NombreCompleto>Camila Sánchez</NombreCompleto>
+        <CorreoElectronico>camila.sánchez@example.com</CorreoElectronico>
+        <NumeroTelefono>66267395</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-006" pwd="6958">
+        <NombreCompleto>Diego Torres</NombreCompleto>
+        <CorreoElectronico>diego.torres@example.com</CorreoElectronico>
+        <NumeroTelefono>80134227</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-007" pwd="8701">
+        <NombreCompleto>Carlos Ruiz</NombreCompleto>
+        <CorreoElectronico>carlos.ruiz@example.com</CorreoElectronico>
+        <NumeroTelefono>27595614</NumeroTelefono>
+        <Direccion>Cobán, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-008" pwd="4912">
+        <NombreCompleto>Diego Torres</NombreCompleto>
+        <CorreoElectronico>diego.torres@correo.com</CorreoElectronico>
+        <NumeroTelefono>17208214</NumeroTelefono>
+        <Direccion>Quetzaltenango, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-009" pwd="3328">
+        <NombreCompleto>Luis Hernández</NombreCompleto>
+        <CorreoElectronico>luis.hernández@correo.com</CorreoElectronico>
+        <NumeroTelefono>65184529</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+    </solicitante>
+    <solicitante id="IPC-010" pwd="3777">
+        <NombreCompleto>Diego Torres</NombreCompleto>
+        <CorreoElectronico>diego.torres@example.com</CorreoElectronico>
+        <NumeroTelefono>47860837</NumeroTelefono>
+        <Direccion>Quetzaltenango, Guatemala</Direccion>
+    </solicitante>
+</solicitantes>
