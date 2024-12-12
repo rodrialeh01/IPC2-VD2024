@@ -106,6 +106,6 @@ Lo puedes encontrar en:  [Clase7/main.py](./Clase7/main.py)
 
 ### 🎥 Grabación de la Clase
 
-**Clase 7**: []()
+**Clase 7**: [https://drive.google.com/file/d/1CmJpWTwBt1DRsMr82DU6OmBIH50g0-Vi/view?usp=sharing](https://drive.google.com/file/d/1CmJpWTwBt1DRsMr82DU6OmBIH50g0-Vi/view?usp=sharing)
 
 ---
