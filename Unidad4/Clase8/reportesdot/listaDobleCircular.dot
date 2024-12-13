@@ -1,0 +1,5 @@
+digraph G {
+    rankdir=LR;
+    node[shape=record, height=.1]
+    nodo0:f1 -> nodo-1:f2 [dir=both constraint=false];
+}

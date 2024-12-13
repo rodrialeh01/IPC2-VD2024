@@ -1,0 +1,10 @@
+digraph G {
+    rankdir="RL";
+    label="Cola";
+    node[shape=box];
+    nodo0[label="2"];
+nodo1[label="3"];
+nodo2[label="4"];
+nodo0 -> nodo1;
+nodo1 -> nodo2;
+}

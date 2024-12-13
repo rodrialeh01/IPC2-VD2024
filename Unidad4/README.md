@@ -109,3 +109,27 @@ Lo puedes encontrar en:  [Clase7/main.py](./Clase7/main.py)
 **Clase 7**: [https://drive.google.com/file/d/1CmJpWTwBt1DRsMr82DU6OmBIH50g0-Vi/view?usp=sharing](https://drive.google.com/file/d/1CmJpWTwBt1DRsMr82DU6OmBIH50g0-Vi/view?usp=sharing)
 
 ---
+
+## 📚 Clase 8: Continuación a Estructuras de Datos: Matrices Dinámicas
+
+_Fecha: 12-12-2024_
+
+En esta clase se abordaron los temas de matriz dispersa, matriz ortogonal y listas ortogonales.
+
+### 📖 Contenido:
+
+- Matrices dinámicas
+    - Matriz dispersa
+    - Matriz ortogonal
+    - Listas ortogonales
+    - Listas Cabeceras
+    - Nodo Cabecera
+    - Nodo Celda
+
+### 💻 Ejemplo de la Clase
+
+Lo puedes encontrar en:  [Clase8/main.py](./Clase8/main.py)
+
+### 🎥 Grabación de la Clase
+
+**Clase 8**: []()
