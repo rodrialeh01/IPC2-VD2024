@@ -1,5 +1,8 @@
 digraph G {
     rankdir=LR;
     node[shape=record, height=.1]
-    nodo0:f1 -> nodo-1:f2 [dir=both constraint=false];
+    nodo0[label="{<f1>|ID: 3\nNombre: Rana\nRuta imagen: C:\Users\rodri\Documents\REPOSITORIOS\IPC2-VD2024\Unidad4\Clase8\reportes\matrizDispersa_3.svg\n|<f2>}"];
+nodo1[label="{<f1>|ID: 2\nNombre: Capibara\nRuta imagen: C:\Users\rodri\Documents\REPOSITORIOS\IPC2-VD2024\Unidad4\Clase8\reportes\matrizDispersa_2.svg\n|<f2>}"];
+nodo0:f2 -> nodo1:f1[dir=both];
+nodo0:f1 -> nodo1:f2 [dir=both constraint=false];
 }

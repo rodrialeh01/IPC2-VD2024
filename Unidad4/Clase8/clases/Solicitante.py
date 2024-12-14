@@ -29,5 +29,4 @@ class Solicitante:
         return self.pila.pop()
     
     def insertarImagen(self, imagen):
-        print('inserta la imagen')
         self.imagenes.insertar(imagen)

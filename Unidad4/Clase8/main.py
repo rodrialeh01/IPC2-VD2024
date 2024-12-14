@@ -198,9 +198,9 @@ def MenuSolicitante():
         print('-7. Salir                                      -')
         opcion = input('> ')
         if opcion == '1':
-            imagen = solicitante.imagenes.obtenerAnterior()
+            imagen = solicitante.imagenes.obtenerAnterior(imagen.id)
         elif opcion == '2':
-            imagen = solicitante.imagenes.obtenerSiguiente()
+            imagen = solicitante.imagenes.obtenerSiguiente(imagen.id)
         elif opcion == '3':
             CargarXMLFiguras()
         elif opcion == '4':

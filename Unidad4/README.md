@@ -132,4 +132,28 @@ Lo puedes encontrar en:  [Clase8/main.py](./Clase8/main.py)
 
 ### 🎥 Grabación de la Clase
 
-**Clase 8**: []()
+**Clase 8**: [https://drive.google.com/file/u/1/d/1du6zF38ENqGYXp7JdAF8PHzFvDQ4sewg/view?usp=sharing](https://drive.google.com/file/u/1/d/1du6zF38ENqGYXp7JdAF8PHzFvDQ4sewg/view?usp=sharing)
+
+---
+
+## 📚 Clase 9: Continuación a Estructuras de Datos: Continuación a Matrices Dinámicas
+
+_Fecha: 13-12-2024_
+
+En esta clase se terminó de explicar la funcionalidad de la matriz dispersa.
+
+### 📖 Contenido:
+
+- Matrices dinámicas
+    - Matriz dispersa
+    - Listas Cabeceras
+    - Nodo Cabecera
+    - Nodo Celda
+
+### 💻 Ejemplo de la Clase
+
+Lo puedes encontrar en:  [Clase8/main.py](./Clase8/main.py)
+
+### 🎥 Grabación de la Clase
+
+**Clase 9**: []()

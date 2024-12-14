@@ -125,8 +125,6 @@ class ListaDoble:
         actual = self.primero
         while actual != None:
             if actual.valor.id == id:
-                print('si xd')
                 actual.valor.insertarImagen(imagen)
                 break
             actual = actual.siguiente
-        print('no :v')
