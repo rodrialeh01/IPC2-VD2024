@@ -156,4 +156,55 @@ Lo puedes encontrar en:  [Clase8/main.py](./Clase8/main.py)
 
 ### 🎥 Grabación de la Clase
 
-**Clase 9**: []()
+**Clase 9**: [https://drive.google.com/file/d/1rvDbOfkdh_BG3qmDpmmZpdG05LVwr7Lr/view?usp=sharing](https://drive.google.com/file/d/1rvDbOfkdh_BG3qmDpmmZpdG05LVwr7Lr/view?usp=sharing)
+
+---
+
+## 📚 Clase 10: Expresiones Regulares
+
+_Fecha: 16-12-2024_
+
+En esta clase se abordaron los temas de ficheros, diccionarios, tuplas y expresiones regulares.
+
+### 📖 Contenido:
+
+- Ficheros
+    - Crear
+    - Leer
+    - Escribir
+        - Actualizar contenido
+        - Añadir contenido
+- Estructuras de datos nativas de Python
+    - Diccionarios
+        - Crear
+        - Leer
+        - Actualizar
+        - Eliminar
+    - Tuplas
+        - Crear
+        - Leer
+        - Actualizar
+        - Eliminar
+- Expresiones regulares
+    - Metacareacteres
+        - Delimitadores
+        - Clases Predefinidas
+        - Iteradores
+        - Alternativas
+    - Literales
+    - Rangos
+- Modulo `re`
+    - `search`
+    - `match`
+    - `findall`
+    - `sub`
+    - `split`
+
+
+### 💻 Ejemplo de la Clase
+
+Lo puedes encontrar en:  [Clase10](./Clase10)
+
+### 🎥 Grabación de la Clase
+
+**Clase 10**: []()
