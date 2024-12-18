@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mi primera página web</title>
+        <!--STYLE EXTERNAL-->
+        <link rel="stylesheet" type="text/css" href="./style.css">
+    </head>
+    <body>
+        <!-- ESTILO INTERNAL-->
+         <style>
+            h1 {
+                color:blue;
+            }
+            strong{
+                color: green;
+            }
+            table{
+                border-color: black;
+                border-style: solid;
+            }
+
+            td {
+                border-style: solid;
+            }
+         </style>
+        <!-- Aqui está mi primer comentario en HTML-->
+        <!-- TITULOS EN EL BODY-->
+         <h1>Este es mi titulo en H1</h1>
+         <h2>Este es mi titulo en H2</h2>
+         <h3>Este es mi titulo en H3</h3>
+         <h4>Este es mi titulo en H4</h4>
+         <h5>Este es mi titulo en H5</h5>
+         <h6>Este es mi titulo en H6</h6>
+         
+         <!--CONTENEDOR-->
+         <div id="titulo-secundario" class="">
+            <h1> Estoy dentro de un div</h1>
+         </div>
+
+         <!--PARRAFOS-->
+         <p>Este es mi parrafo simple</p>
+         <hr/>
+         <p>Este es mi <br> parrafo con salto</p>
+         <p>Este es mi <strong>parrafo con negrilla</strong></p>
+
+         <!-- ESTILO INLINE -->
+         <p style="color:darkred">Este parrafo esta de color rojo</p>
+         
+         <hr>
+         <!-- TABLAS-->
+          <table>
+            <!--ENCABEZADOS DE LA TABLA-->
+            <thead>
+                <tr>
+                    <th>Columna 1</th>
+                    <th>Columna 2</th>
+                    <th>Columna 3</th>
+                    <th>Columna 4</th>
+                    <th>Columna 5</th>
+                </tr>
+            </thead>
+            <!--CUERPO DE LA TABLA-->
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td colspan="2" align="center">4</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                </tr>
+            </tbody>
+          </table>
+          <hr/>
+          <!--IMAGENES-->
+          <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgccgrlGC6E9bs0hUhi0GZ6jiG7n3UPdWRkymw-6WazOZ5a2a6lwG4dUjVy10MVCBLOpp88jKSvREk1wDT98bVcaPlWk4Zj8DDmqmPctpYWw" alt="Jake el perro" title="Jake el perro" width="400" heigth="200"/>
+          <img src="https://media.vandal.net/m/7-2020/2020791244782_9.jpg" alt="" title="" width="400" heigth="200"/>
+          <img src="https://i.pinimg.com/originals/1c/ee/d0/1ceed098558380f5c4739bb878bd7bce.png" alt="Mario Bros" title="Mario Bros" width="1000" height="500"/>
+         <!-- LISTAS -->
+          <!--ORDENADAS-->
+          <h4>Listas Númericas</h4>
+          <ol type="1">
+            <li>Minecraft</li>
+            <li>Valorant</li>
+            <li>Fortnite</li>
+          </ol>
+          <h4>Listas Numeros Romanos</h4>
+          <ol type="i">
+            <li>Primaria</li>
+            <li>Básicos</li>
+            <li>Bachillerato</li>
+          </ol>
+          <h4>Listas Abecedario</h4>
+          <ol type="a">
+            <li>Lunes</li>
+            <li>Martes</li>
+            <li>Miércoles</li>
+          </ol>
+            <!--DESORDENADAS-->
+            <h4>Lista Desordenada</h4>
+            <ul>
+                <li>Series</li>
+                <li>Peliculas</li>
+                <li>TV Shows</li>
+            </ul>
+
+            <!--DEFINICION-->
+            <dl>
+                <dt>carro</dt>
+                <dd>tiene ruedas</dd>
+                <dt>carro</dt>
+                <dd>muy rapido</dd>
+                <dt>telefono</dt>
+                <dd>dispositivo electronico</dd>
+            </dl>
+
+            <!--FORMULARIOS-->
+            <form action="URL" method="get">
+                <!--COMBO DE OPCIONES-->
+                <select name="equipos">
+                    <option>xelaju</option>
+                    <option>coban imperial</option>
+                    <option>Comunicaciones</option>
+                </select>
+                <select name="equipos" multiple>
+                    <option>xelaju</option>
+                    <option>coban imperial</option>
+                    <option>Comunicaciones</option>
+                </select>
+                <select name="equipos">
+                    <option label="No soy fan" value="1"></option>
+                    <option label="Xela">xelaju</option>
+                    <option>coban imperial</option>
+                    <option>Comunicaciones</option>
+                </select>
+                <select name="Facultades">
+                    <optgroup label="Ingeniería">
+                        <option>Sistemas GOD</option>
+                        <option>Electronica</option>
+                        <option>Civil</option>
+                    </optgroup>
+                    <optgroup label="Arquitectura">
+                        <option>Arquitectura</option>
+                        <option>Diseño Grafico</option>
+                    </optgroup>
+                </select>
+
+                <!--ÁREAS DE TEXTO-->
+                <textarea rows="3" cols="5"></textarea>
+                <!--button-->
+                <button type="submit">Submit</button>
+                <button type="reset">Reset</button>
+                <button type="button">Boton</button>
+
+                <!--INPUT-->
+                <input type="text">
+                <input type="password">
+                <input type="email">
+                <input type="image">
+                <input type="range">
+                <input type="date">
+                <input type="time">
+                <input type="number">
+                <input type="button">
+                <input type="checkbox">
+                <input type="radio">
+                <input type="color">
+                <input type="file">
+            </form>
+          <!-- FOOTER -->
+         <footer>
+            Creditos: Al aux de ipc2
+            <address>12-3 Calle 1-20 Zona 30, Ciudad de Guatemala, Guatemala</address>
+         </footer>
+    </body>
+</html>
