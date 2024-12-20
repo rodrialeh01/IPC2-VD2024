@@ -30,4 +30,4 @@ En esta clase se abordó el tema de Backend y del uso del Framework Flask para c
 Lo puedes encontrar en:  [Clase13/main.py](./Clase13/main.py)
 
 ### 🎥 Grabación de la Clase
-**Clase 13**: []()
+**Clase 13**: [https://drive.google.com/file/d/1HJgnOF6I0CuCoc8-9pBQL9Gr8yrZk_Dn/view?usp=sharing](https://drive.google.com/file/d/1HJgnOF6I0CuCoc8-9pBQL9Gr8yrZk_Dn/view?usp=sharing)
