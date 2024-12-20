@@ -36,6 +36,8 @@ Si te gusta este repositorio y su contenido, te invito a darle una ⭐️ y si q
 - [`🌎 Unidad 5:`](./Unidad5) HTML5 y CSS3
   - [📚 Clase 11](./Unidad5/Clase11/)
   - [📚 Clase 12](./Unidad5/Clase12/)
+- [`🌎 Unidad 6:`](./Unidad6) Entorno para desarrollo Web en Python
+  - [📚 Clase 13](./Unidad6/Clase13/)
 ## 👤Contacto
 
 Correo: [rodrialehdl@gmail.com](rodrialehdl@gmail.com)
