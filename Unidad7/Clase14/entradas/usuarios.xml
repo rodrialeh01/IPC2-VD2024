@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<solicitantes>
+    <solicitante id="IPC-001" pwd="3267">
+        <NombreCompleto>Carlos Ruiz</NombreCompleto>
+        <CorreoElectronico>carlos.ruiz@example.com</CorreoElectronico>
+        <NumeroTelefono>6798429</NumeroTelefono>
+        <Direccion>Ciudad de Guatemala, Guatemala</Direccion>
+        <perfil>https://i.pinimg.com/236x/3a/be/84/3abe8400da18914a7ce19c22744537e0.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-002" pwd="4312">
+        <NombreCompleto>Carlos Ruiz</NombreCompleto>
+        <CorreoElectronico>carlos.ruiz@mail.com</CorreoElectronico>
+        <NumeroTelefono>15336206</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+        <perfil>https://i.pinimg.com/236x/37/87/8c/37878cf1464269511640155503ccfc2a.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-003" pwd="1893">
+        <NombreCompleto>Maria Lopez</NombreCompleto>
+        <CorreoElectronico>maria.lopez@mail.com</CorreoElectronico>
+        <NumeroTelefono>23637281</NumeroTelefono>
+        <Direccion>Quetzaltenango, Guatemala</Direccion>
+        <perfil>https://wallpapers.com/images/featured/fotos-de-perfil-de-dibujos-animados-cvyu6zeeolasudk4.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-004" pwd="9153">
+        <NombreCompleto>Camila Sanchez</NombreCompleto>
+        <CorreoElectronico>camila.sanchez@example.com</CorreoElectronico>
+        <NumeroTelefono>23396941</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+        <perfil>https://wallpapers.com/images/hd/so-done-powerpuff-cartoon-pfp-0xz5bdtzc86f5ssd.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-005" pwd="8929">
+        <NombreCompleto>Camila Sanchez</NombreCompleto>
+        <CorreoElectronico>camila.sanchez@example.com</CorreoElectronico>
+        <NumeroTelefono>66267395</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+        <perfil>https://i.pinimg.com/474x/fc/c2/58/fcc258cdf8392c459a68bf05d8312c97.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-006" pwd="6958">
+        <NombreCompleto>Diego Torres</NombreCompleto>
+        <CorreoElectronico>diego.torres@example.com</CorreoElectronico>
+        <NumeroTelefono>80134227</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+        <perfil>https://www.pinterest.com/tsucortez/fotos-de-perfil-de-dibujos-animados/</perfil>
+    </solicitante>
+    <solicitante id="IPC-007" pwd="8701">
+        <NombreCompleto>Carlos Ruiz</NombreCompleto>
+        <CorreoElectronico>carlos.ruiz@example.com</CorreoElectronico>
+        <NumeroTelefono>27595614</NumeroTelefono>
+        <Direccion>Coban, Guatemala</Direccion>
+        <perfil>https://static.vecteezy.com/system/resources/previews/034/478/373/non_2x/man-profile-caricature-illustration-vector.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-008" pwd="4912">
+        <NombreCompleto>Diego Torres</NombreCompleto>
+        <CorreoElectronico>diego.torres@correo.com</CorreoElectronico>
+        <NumeroTelefono>17208214</NumeroTelefono>
+        <Direccion>Quetzaltenango, Guatemala</Direccion>
+        <perfil>https://static.vecteezy.com/system/resources/previews/009/749/751/non_2x/avatar-man-icon-cartoon-male-profile-mascot-illustration-head-face-business-user-logo-free-vector.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-009" pwd="3328">
+        <NombreCompleto>Luis Hernandez</NombreCompleto>
+        <CorreoElectronico>luis.hernandez@correo.com</CorreoElectronico>
+        <NumeroTelefono>65184529</NumeroTelefono>
+        <Direccion>Escuintla, Guatemala</Direccion>
+        <perfil>https://www.imagella.com/cdn/shop/products/c2a120aa64086841dab8e36f37bf1984.jpg</perfil>
+    </solicitante>
+    <solicitante id="IPC-010" pwd="3777">
+        <NombreCompleto>Diego Torres</NombreCompleto>
+        <CorreoElectronico>diego.torres@example.com</CorreoElectronico>
+        <NumeroTelefono>47860837</NumeroTelefono>
+        <Direccion>Quetzaltenango, Guatemala</Direccion>
+        <perfil>https://www.imagella.com/cdn/shop/products/41f93951335372a7234da95f8cf67e76.jpg</perfil>
+    </solicitante>
+</solicitantes>
