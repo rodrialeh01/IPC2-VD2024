@@ -59,4 +59,4 @@ En esta clase se abordó el tema de Django y como conectarlo con el Backend.
 Lo puedes encontrar en:  [Clase15](./Clase15)
 
 ### 🎥 Grabación de la Clase
-**Clase 15**: []()
+**Clase 15**: [https://drive.google.com/file/d/1datWVKxVN7lc5pVHaAFDmwS07V1wqvaB/view?usp=sharing](https://drive.google.com/file/d/1datWVKxVN7lc5pVHaAFDmwS07V1wqvaB/view?usp=sharing)
