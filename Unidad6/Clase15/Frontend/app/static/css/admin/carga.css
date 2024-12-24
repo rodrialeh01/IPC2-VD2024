@@ -1,0 +1,89 @@
+/* New styles for the Carga Masiva section */
+.carga-masiva {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.carga-masiva h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #1f2937;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.button {
+    padding: 0.75rem 2rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    background-color: white;
+    cursor: pointer;
+}
+
+.button.b1 {
+    border: 2px solid #22c55e;
+    justify-content: left;
+    color: #22c55e;
+}
+
+.button.b2 {
+    border: 2px solid #eab308;
+    justify-content: center;
+    color: #eab308;
+}
+
+.button.b3 {
+    border: 2px solid #3b82f6;
+    color: #3b82f6;
+}
+
+.textarea-container {
+    width: 100%;
+}
+
+.textarea {
+    width: 100%;
+    min-height: 500px;
+    padding: 1rem;
+    border: none; /* Quitar bordes */
+    border-radius: 4px;
+    background-color: #1e1e1e; /* Fondo oscuro estilo VSCode */
+    color: #dcdcdc; /* Texto claro */
+    font-family: 'Fira Code', 'Courier New', monospace; /* Fuente monoespaciada como VSCode */
+    font-size: 14px;
+    line-height: 1.5;
+    resize: none; /* Deshabilitar redimensionamiento */
+    overflow: auto; /* Scroll cuando sea necesario */
+    caret-color: #0db9d7; /* Cursor azul claro */
+    outline: none; /* Quitar el borde azul predeterminado */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra suave */
+    scrollbar-width: thin; /* Scrollbar más delgado */
+    scrollbar-color: #4d4d4d #1e1e1e; /* Colores del scrollbar */
+}
+
+/* Scrollbar personalizado para navegadores basados en WebKit */
+.textarea::-webkit-scrollbar {
+    width: 8px; /* Grosor del scrollbar */
+}
+.textarea::-webkit-scrollbar-track {
+    background: #1e1e1e; /* Fondo del scrollbar */
+}
+.textarea::-webkit-scrollbar-thumb {
+    background-color: #4d4d4d; /* Color del scrollbar */
+    border-radius: 4px; /* Bordes redondeados */
+}
+
+/* Placeholder estilo VSCode */
+.textarea::placeholder {
+    color: #6a6a6a; /* Placeholder más tenue */
+    font-style: italic;
+}
+
+.hidden {
+    display: none;
+}

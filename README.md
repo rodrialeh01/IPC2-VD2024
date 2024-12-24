@@ -38,6 +38,9 @@ Si te gusta este repositorio y su contenido, te invito a darle una ⭐️ y si q
   - [📚 Clase 12](./Unidad5/Clase12/)
 - [`🌎 Unidad 6:`](./Unidad6) Entorno para desarrollo Web en Python
   - [📚 Clase 13](./Unidad6/Clase13/)
+  - [📚 Clase 15](./Unidad6/Clase15/)
+- [`📜 Unidad 7:`](./Unidad7) JavaScript Object Notarion (JSON)
+  - [📚 Clase 14](./Unidad7/Clase14/)
 ## 👤Contacto
 
 Correo: [rodrialehdl@gmail.com](rodrialehdl@gmail.com)

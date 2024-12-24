@@ -29,4 +29,4 @@ En esta clase se abordó el tema peticiones HTTP, JSON y Lectura de XML junto co
 Lo puedes encontrar en:  [Clase14/main.py](./Clase14/main.py)
 
 ### 🎥 Grabación de la Clase
-**Clase 14**: []()
+**Clase 14**: [https://drive.google.com/file/d/1JFb-pI9C9VGpq5W0BXwIQwwWg9I4zdb9/view?usp=sharing](https://drive.google.com/file/d/1JFb-pI9C9VGpq5W0BXwIQwwWg9I4zdb9/view?usp=sharing)
