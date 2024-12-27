@@ -80,5 +80,5 @@ En esta clase se abordó el tema de Django, uso de la libreria Graphviz y con el
 Lo puedes encontrar en:  [Clase16](./Clase16)
 
 ### 🎥 Grabación de la Clase
-**Clase 16**: []()
+**Clase 16**: [https://drive.google.com/file/d/1gj9YUgwTj-5tw1GOx06WeYOtaZi3CPLK/view?usp=sharing](https://drive.google.com/file/d/1gj9YUgwTj-5tw1GOx06WeYOtaZi3CPLK/view?usp=sharing)
 
