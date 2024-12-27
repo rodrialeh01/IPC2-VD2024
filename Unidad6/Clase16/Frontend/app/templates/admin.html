@@ -1,0 +1,57 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/admin/base.css' %}">
+</head>
+<body>
+    <aside class="sidebar">
+        <div class="logo">CeramicArt</div>
+        
+        <div class="sidebar-section">
+            <a href="{% url 'carga' %}" class="sidebar-item">
+                <img src="https://img.icons8.com/fluency-systems-filled/24/FFFFFF/upload.png" alt="upload" class="icon">
+                <span class="menu-text">Carga Masiva</span>
+            </a>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-title">Usuarios</div>
+            <a href="{% url 'users' %}" class="sidebar-item">
+                <img src="https://img.icons8.com/material-rounded/24/FFFFFF/user.png" alt="upload" class="icon">
+                <span class="menu-text">Ver Usuarios</span>
+            </a>
+            <a href="{% url 'usersxml' %}" class="sidebar-item">
+                <img src="https://img.icons8.com/material-rounded/24/FFFFFF/xml-file.png" alt="upload" class="icon">
+                <span class="menu-text">Ver XML</span>
+            </a>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-title">Reportes</div>
+            <a href="" class="sidebar-item">
+                <img src="https://img.icons8.com/ios-filled/24/FFFFFF/combo-chart--v1.png" alt="upload" class="icon">
+                <span class="menu-text">Estadísticas</span>
+            </a>
+            <a href="{% url 'ayuda' %}" class="sidebar-item">
+                <img src="https://img.icons8.com/ios-filled/50/FFFFFF/help.png" alt="upload" class="icon">
+                <span class="menu-text">Ayuda</span>
+            </a>
+        </div>
+
+        <div class="sidebar-section">
+            <a href="{% url 'logout' %}" class="sidebar-item">
+                <img src="https://img.icons8.com/fluency-systems-filled/24/FFFFFF/upload.png" alt="upload" class="icon">
+                <span class="menu-text">Cerrar Sesión</span>
+            </a>
+        </div>
+    </aside>
+
+    <main class="main-content">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

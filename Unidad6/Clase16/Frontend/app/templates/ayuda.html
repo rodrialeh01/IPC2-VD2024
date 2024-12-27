@@ -1,0 +1,30 @@
+{% extends "admin.html" %}
+{% load static %}
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/admin/ayuda.css' %}">
+<div class="help-section">
+    <h1>Ayuda</h1>
+    
+    <div class="info-section">
+        <h2>Hecho por:</h2>
+        <div class="info-content">
+            <div><strong>Aux: </strong> Rodrigo Hernández</div>
+            <div><strong>Curso: </strong> Introducción a la Programación y Computación 2</div>
+            <div><strong>Sección: </strong> P</div>
+            <div><strong>Periodo: </strong> Vacaciones de diciembre 2024</div>
+            <div><strong>Github: </strong> <a href="https://github.com/rodrialeh01">rodrialeh01</a></div>
+        </div>
+    </div>
+
+    <div class="documentation-section">
+        <h2>Programa de Laboratorio</h2>
+        <div class="documentation-content">
+            <embed 
+                src="{% static 'files/ProgramaLab-IPC2-VD2024.pdf' %}"
+                type="application/pdf"
+                class="pdf-viewer"
+            />
+        </div>
+    </div>
+</div>
+{% endblock %}

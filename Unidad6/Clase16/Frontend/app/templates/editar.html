@@ -1,0 +1,47 @@
+{% extends "usuario.html" %}
+{% load static %}
+{% block usercontent %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/user/editar.css' %}">
+<div class="editor-section">
+    <h1>Editor de Diseños</h1>
+    
+    <div class="controls">
+        <form
+        enctype="multipart/form-data"
+        method="POST"
+        action="/user/edit/"
+        >
+        {% csrf_token %}
+            <label for="textid" class="hidden"></label>
+            <input type="text" id="textid" name="textid"  class="input-field" placeholder="ID imagen">
+            <button class="button" name="action" value="grayscale">Escala de grises</button>
+            <button class="button" name="action" value="sepia">Sepia</button>
+        </form>
+    </div>
+
+    <div class="images-grid">
+        <div class="image-section">
+            <div class="section-title">Imagen actual</div>
+            <div class="image-container">
+                <div class="placeholder-image">
+                    {% if imagen1 %}
+                        <img class="placeholder-image" src="data:image/svg+xml;base64,{{imagen1}}" alt="Graphviz">
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+
+        <div class="image-section">
+            <div class="section-title">Imagen resultante</div>
+            <div class="image-container">
+                <div class="placeholder-image">
+                    {% if imagen2 %}
+                        <img class="placeholder-image" src="data:image/svg+xml;base64,{{imagen2}}" alt="Graphviz">
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -53,6 +53,8 @@ En esta clase se abordó el tema de Django y como conectarlo con el Backend.
 - Creación de URLs
 - Creación de Vistas
 - Conexión de Frontend con Backend
+- Jinja
+- Requests
 
 ### 💻 Ejemplo de la Clase
 
@@ -60,3 +62,23 @@ Lo puedes encontrar en:  [Clase15](./Clase15)
 
 ### 🎥 Grabación de la Clase
 **Clase 15**: [https://drive.google.com/file/d/1datWVKxVN7lc5pVHaAFDmwS07V1wqvaB/view?usp=sharing](https://drive.google.com/file/d/1datWVKxVN7lc5pVHaAFDmwS07V1wqvaB/view?usp=sharing)
+
+## 📚 Clase 16: Continuación a Django, Libreria Graphviz y Base64
+
+_Fecha: 26-12-2024_
+
+En esta clase se abordó el tema de Django, uso de la libreria Graphviz y con ello el uso de imagenes en Base 64.
+
+### 📖 Contenido:
+
+- Django
+- Libreria Graphviz
+- Base64
+
+### 💻 Ejemplo de la Clase
+
+Lo puedes encontrar en:  [Clase16](./Clase16)
+
+### 🎥 Grabación de la Clase
+**Clase 16**: []()
+

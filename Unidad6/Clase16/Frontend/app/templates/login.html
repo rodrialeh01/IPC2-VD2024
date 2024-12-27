@@ -1,0 +1,35 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/login/styles.css' %}">
+</head>
+<body>
+    <div class="login-container">
+        <div class="user-icon">
+            <span></span>
+            <i></i>
+        </div>
+        <form
+            enctype="multipart/form-data"
+            method="POST"
+            action="/signin/"
+        >
+        {# Django utiliza tokens CSRF para asegurarse de que los formularios y las solicitudes POST provienen de una fuente confiable y no de un sitio malintencionado. #}
+        {% csrf_token %}
+            <div class="form-group">
+                <label for="iduser"></label>
+                <input type="text" name="iduser" id="iduser" placeholder="ID" required>
+            </div>
+            <div class="form-group">
+                <label for="password"></label>
+                <input type="password" name="password" id="password" placeholder="••••••••" required>
+            </div>
+            <button type="submit" class="login-btn">Inicia Sesión</button>
+        </form>
+    </div>
+</body>
+</html>

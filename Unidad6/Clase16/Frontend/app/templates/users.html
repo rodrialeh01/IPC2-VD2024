@@ -1,0 +1,35 @@
+{% extends "admin.html" %}
+{% load static %}
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/admin/users.css' %}">
+<div class="users-section">
+    <h1>Usuarios de IPC-Art Studio</h1>
+    <div class="users-grid">
+        {% if usuarios %}
+            {% for usuario in usuarios %}
+                <div class="user-card">
+                    <div class="user-image">
+                        <img src="{{usuario.perfil}}"/>
+                    </div>
+                    <div class="user-content">
+                        <h2 class="user-title">{{usuario.nombre}}</h2>
+                        <p class="user-description">
+                            <span class="user-subtitle">ID: </span>{{usuario.id}}
+                        </p>
+                        <p class="user-description">
+                            <span class="user-subtitle">Correo: </span>{{usuario.correo}}
+                        </p>
+                        <p class="user-description">
+                            <span class="user-subtitle">Telefono: </span>{{usuario.telefono}}
+                        </p>
+                        <p class="user-description">
+                            <span class="user-subtitle">Dirección: </span>{{usuario.direccion}}
+                        </p>
+                    </div>
+                </div>
+            {% endfor %}
+        {% endif %}
+    </div>
+</div>
+
+{% endblock %}
