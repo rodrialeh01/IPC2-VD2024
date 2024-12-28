@@ -1,0 +1,18 @@
+{% extends "admin.html" %}
+{% load static %}
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/admin/estadisticas.css' %}">
+{# IMPORTAMOS LA LIBRERIA DE PLOTLY.JS PARA QUE SE MUESTRE EN NUESTRO HTML #}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<div class="stats-section">
+    <h1 style="margin-bottom:30%">Estadísticas</h1>
+    
+    <div class="chart-section">
+        <h2>Imagenes procesadas y editadas por usuario</h2>
+        <div class="chart top-users">
+            {{plot_div|safe}}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

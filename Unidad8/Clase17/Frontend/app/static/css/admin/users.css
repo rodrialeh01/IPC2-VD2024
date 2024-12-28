@@ -1,0 +1,92 @@
+.users-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.users-section h1 {
+    font-size: 1.875rem;
+    margin-bottom: 2rem;
+    color: #1f2937;
+}
+
+.users-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+.user-card {
+    display: flex;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+}
+
+.user-image {
+    width: 100px;
+    height: 100px;
+    background-color: #f3f4f6;
+    border-radius: 0.5rem;
+    margin-right: 1.5rem;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-image svg {
+    width: 50px;
+    height: 50px;
+    color: #9ca3af;
+}
+
+.user-image img {
+    width: 100%; /* La imagen ocupa el ancho completo del contenedor */
+    height: 100%; /* La imagen ocupa el alto completo del contenedor */
+    object-fit: cover; /* Ajusta la imagen sin distorsionar y recorta si es necesario */
+    border-radius: 0.5rem; /* Mantén las esquinas redondeadas */
+}
+
+.user-content {
+    flex: 1;
+}
+
+.user-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+}
+
+.user-subtitle {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #3a3a3a;
+    line-height: 1.5;
+}
+
+.user-description {
+    color: #6b7280;
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
+.content-line {
+    height: 0.75rem;
+    background-color: #f3f4f6;
+    border-radius: 0.25rem;
+    margin-bottom: 0.75rem;
+}
+
+.content-line:last-child {
+    margin-bottom: 0;
+}
+
+.content-line.short {
+    width: 60%;
+}
+
+.content-line.medium {
+    width: 80%;
+}

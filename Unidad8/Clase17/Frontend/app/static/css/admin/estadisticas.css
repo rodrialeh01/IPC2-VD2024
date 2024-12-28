@@ -1,0 +1,80 @@
+.stats-section {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.stats-section h1 {
+    font-size: 1.875rem;
+    margin-bottom: 2rem;
+    color: #1f2937;
+}
+
+.chart-section {
+    margin-bottom: 3rem;
+}
+
+.chart-section h2 {
+    font-size: 1.25rem;
+    color: #1f2937;
+    margin-bottom: 1.5rem;
+}
+
+.chart {
+    display: flex;
+    align-items: flex-end;
+    height: 200px;
+    gap: 1rem;
+    padding: 1rem 0;
+}
+
+.bar {
+    flex: 1;
+    transition: height 0.3s ease;
+}
+
+/* Top 3 Users Chart */
+.top-users .bar:nth-child(1) {
+    height: 100%;
+    background-color: #000000;
+}
+
+.top-users .bar:nth-child(2) {
+    height: 80%;
+    background-color: #333333;
+}
+
+.top-users .bar:nth-child(3) {
+    height: 60%;
+    background-color: #666666;
+}
+
+/* Processed Images Chart */
+.processed-images .bar:nth-child(1) {
+    height: 100%;
+    background-color: #000000;
+}
+
+.processed-images .bar:nth-child(2) {
+    height: 85%;
+    background-color: #333333;
+}
+
+.processed-images .bar:nth-child(3) {
+    height: 70%;
+    background-color: #4d4d4d;
+}
+
+.processed-images .bar:nth-child(4) {
+    height: 55%;
+    background-color: #666666;
+}
+
+.processed-images .bar:nth-child(5) {
+    height: 40%;
+    background-color: #808080;
+}
+
+.processed-images .bar:nth-child(6) {
+    height: 25%;
+    background-color: #999999;
+}
